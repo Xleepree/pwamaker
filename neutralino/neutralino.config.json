@@ -1,11 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/neutralinojs/neutralinojs/main/schemas/neutralino.config.schema.json",
-  "applicationId": "pwa.YouTubeMusic",
+  "applicationId": "pwa.pwaTemplate",
   "version": "0.0.0",
   "defaultMode": "window",
   "port": 0,
   "documentRoot": "/resources/",
-  "url": "https://music.youtube.com",
+  "url": "https://example.com",
   "enableServer": false,
   "enableNativeAPI": true,
   "tokenSecurity": "one-time",
@@ -20,7 +20,7 @@
   },
   "modes": {
     "window": {
-      "title": "YouTube Music",
+      "title": "pwamaker Template",
       "width": 800,
       "height": 500,
       "minWidth": 400,
@@ -38,7 +38,7 @@
     }
   },
   "cli": {
-    "binaryName": "pwa-youtube-music",
+    "binaryName": "pwa-pwa-template",
     "resourcesPath": "/resources/",
     "extensionsPath": "/extensions/",
     "clientLibrary": "/resources/js/neutralino.js",
