@@ -1,13 +1,30 @@
+# Rust
+/cli/target
+/**/*.rs.bk
+Cargo.lock
+
+# NeutralinoJS
 # Developer tools' files
 .lite_workspace.lua
 
 # Neutralinojs binaries and builds
-/bin
-/dist
+/neutralino/bin
+/neutralino/dist
 
 # Neutralinojs client (minified)
 neutralino.js
 
 # Neutralinojs related files
 .storage
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
 *.log
