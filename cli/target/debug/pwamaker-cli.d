@@ -1,1 +1,0 @@
-C:\Users\diego\Projects\pwamaker\cli\target\debug\pwamaker-cli.exe: C:\Users\diego\Projects\pwamaker\cli\src\command\config.rs C:\Users\diego\Projects\pwamaker\cli\src\command\fetch.rs C:\Users\diego\Projects\pwamaker\cli\src\command\mod.rs C:\Users\diego\Projects\pwamaker\cli\src\main.rs
